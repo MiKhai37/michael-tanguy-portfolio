@@ -1,7 +1,3 @@
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+* **Tweet Analysis Project**
+* **Job Posting Analysis Project**
+* **Pair Trading Algortihm**
