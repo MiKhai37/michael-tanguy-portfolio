@@ -1,2 +1,2 @@
 ## Michael TANGUY
-# Data Analyst
+# Data Analyst Junior
