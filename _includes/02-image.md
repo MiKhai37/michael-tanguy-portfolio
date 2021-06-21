@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Data Center](https://www.hebergement-systonic.fr/sites/default/files/datacenter.jpg)
