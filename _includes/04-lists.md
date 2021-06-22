@@ -1,4 +1,4 @@
-**Data Analyst Skills**
+**Data Skills**
 
 * Python
   * Pandas
