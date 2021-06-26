@@ -10,6 +10,7 @@
 [GitHub repo](https://github.com/MiKhai37/job-posting-analysis)
 [Presentation](https://mikhai37.github.io/michael-tanguy-portfolio/)
   * Job Posting Scraping
+  * Keyword detection
 
 * **Pair Trading Project :**
 [GitHub repo](https://github.com/MiKhai37/pair-trading)
