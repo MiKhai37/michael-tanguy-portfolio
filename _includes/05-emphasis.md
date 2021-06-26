@@ -2,4 +2,6 @@
 
 * **Tweet Analysis Project**
 * **Job Posting Analysis Project**
-* **Pair Trading Algortihm**
+* **Pair Trading Project**
+* **Bike Crashes Project**
+* **Covid Project**
