@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "About Me"
-permalink: https://mikhai37.github.io/michael-tanguy-portfolio/about-me
 ---
 
 # Contact
